@@ -1,28 +1,11 @@
-# Development
+## 概要
+このリポジトリは、CodiMDページをhtml形式でダウンロードするツールです。<br>
+ページ内のCodiMDのページも再帰でダウンロードされます。<br>
+また、CodiMD内で使われているリソースもダウンロードされます。
 
-Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
+<img width="669" height="362" alt="image" src="https://github.com/user-attachments/assets/5ea08764-31b9-4bd9-8b10-6a2f9321b071" />
 
-```
-project/
-├─ assets/ # Any assets that are used by the app should be placed here
-├─ src/
-│  ├─ main.rs # main.rs is the entry point to your application and currently contains all components for the app
-├─ Cargo.toml # The Cargo.toml file defines the dependencies and feature flags for your project
-```
+<img width="562" height="251" alt="image" src="https://github.com/user-attachments/assets/7cb1fcc5-5317-4f27-8724-c2de098cbc15" />
 
-
-
-### Serving Your App
-
-Run the following command in the root of your project to start developing with the default platform:
-
-```bash
-dx serve
-```
-
-To run for a different platform, use the `--platform platform` flag. E.g.
-```bash
-dx serve --platform desktop
-```
 
 
