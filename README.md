@@ -14,4 +14,5 @@ git clone https://github.com/8bitTD/codimd_downloader
 cd codimd_downloader
 cargo run --release
 ```
-
+GUI起動後に必要な設定をして実行ボタンを押してください。
+output_path内に*.htmlとリソースがダウンロードされます。
