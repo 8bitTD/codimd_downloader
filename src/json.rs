@@ -11,7 +11,7 @@ pub struct WindowInfo{
 }
 impl Default for WindowInfo{
     fn default() -> WindowInfo{
-        WindowInfo { pos_x: 600, pos_y: 200, width: 650, height: 300 }
+        WindowInfo { pos_x: 600, pos_y: 200, width: 650, height: 320 }
     }
 }
 
