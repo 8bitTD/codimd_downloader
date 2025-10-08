@@ -65,7 +65,7 @@ pub fn ui() -> Element {
                 }
                 input{
                     style: "width: calc(100% - 120px); height: 20px;",
-                    title: "CodiMDの全ページ情報をJsonで表示するサイトを認証制限している場合は、ユーザー名を指定してください",
+                    title: "CodiMDの全ページ情報をJsonで表示するサイトをユーザー認証している場合は、ユーザー名を指定してください",
                     disabled: app().is_exec,
                     oninput: move |e| app.write().json.user_name = e.value(),
                     value: app().json.user_name
@@ -80,7 +80,7 @@ pub fn ui() -> Element {
                 }
                 input{
                     style: "width: calc(100% - 120px); height: 20px;",
-                    title: "CodiMDの全ページ情報をJsonで表示するサイトを認証制限している場合は、パスワードを指定してください",
+                    title: "CodiMDの全ページ情報をJsonで表示するサイトをユーザー認証している場合は、パスワードを指定してください",
                     disabled: app().is_exec,
                     oninput: move |e| app.write().json.password = e.value(),
                     value: app().json.password
