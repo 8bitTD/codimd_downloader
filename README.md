@@ -16,3 +16,6 @@ GUI起動後に必要な設定をして実行ボタンを押してください�
 output_path内に*.htmlとリソースがダウンロードされます。<br>
 
 <img width="562" height="251" alt="image" src="https://github.com/user-attachments/assets/7cb1fcc5-5317-4f27-8724-c2de098cbc15" />
+
+## 実行環境
+Windows10 Home
