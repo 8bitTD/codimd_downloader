@@ -19,12 +19,14 @@ GUI起動後に必要な設定をして実行ボタンを押してください�
 output_path内に*.htmlとリソースがダウンロードされます。<br>
 
 <img width="562" height="251" alt="image" src="https://github.com/user-attachments/assets/7cb1fcc5-5317-4f27-8724-c2de098cbc15" />
+
 ##環境
 ### サーバー環境
-Ubuntu 24.04.3 LTS
-rustc 1.90.0
-CodiMD 2.6.1
+Ubuntu 24.04.3 LTS<br>
+rustc 1.90.0<br>
+CodiMD 2.6.1<br>
+
 ### 実行環境
-Windows 10 Home
-rustc 1.90.0
-Windows10 Home
+Windows 10 Home<br>
+rustc 1.90.0<br>
+Windows10 Home<br>
