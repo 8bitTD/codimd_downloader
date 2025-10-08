@@ -6,6 +6,9 @@
 <img width="669" height="362" alt="image" src="https://github.com/user-attachments/assets/5ea08764-31b9-4bd9-8b10-6a2f9321b071" />
 
 ## 使い方
+### サーバー側
+事前にサーバー側に[こちら](https://github.com/8bitTD/codimd_display)のjsonで取得できるサイトを構築してください
+### ツール実行
 [Rust](https://rust-lang.org/ja/)をインストール後に
 ```cmd
 git clone https://github.com/8bitTD/codimd_downloader
