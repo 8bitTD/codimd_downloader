@@ -7,5 +7,11 @@
 
 <img width="562" height="251" alt="image" src="https://github.com/user-attachments/assets/7cb1fcc5-5317-4f27-8724-c2de098cbc15" />
 
-
+## 使い方
+[Rust](https://rust-lang.org/ja/)をインストール後に
+```cmd
+git clone https://github.com/8bitTD/codimd_downloader
+cd codimd_downloader
+cargo run --release
+```
 
